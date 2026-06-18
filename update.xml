@@ -3,10 +3,10 @@
   <channel>
     <item>
       <title>الإصدار 2.0.0.0</title>
-      <version>2.0.0.0</version>
-      <url>https://github.com</url>
+      <version>26.6.0.0</version>
+      <url>https://github.com/ahmedbgfl/Exp2Fet_cem/archive/refs/tags/v2.0.0.0.zip</url>
       <!-- رابط ملف النص المباشر للإضافات -->
-      <changelog>https://githubusercontent.com</changelog>
+      <changelog>https://raw.githubusercontent.com/ahmedbgfl/Exp2Fet_cem/refs/heads/main/%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA.txt</changelog>
       <mandatory>false</mandatory>
     </item>
   </channel>
