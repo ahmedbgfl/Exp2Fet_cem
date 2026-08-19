@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <title>الإصدار 26.9.1.1</title>
-  <version>26.9.1.1</version>
+  <title>الإصدار 26.10.1.0</title>
+  <version>26.10.1.0</version>
   <url>https://github.com/ahmedbgfl/Exp2Fet_cem/releases/download/26.10.1.0/update_Exp2Fet_v26_win7sp1_win8.1_x64_64bit_26.10.1.0.zip</url>
   <changelog>https://raw.githubusercontent.com/ahmedbgfl/Exp2Fet_cem/refs/heads/main/%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA.txt</changelog>
   <mandatory>false</mandatory>
